@@ -49,3 +49,9 @@ source venv/bin/activate
 - `hosts` — mapeo IP-hostname para `/etc/hosts`
 - `maquinas` — lista de nombres de nodos
 - `venv/` — entorno virtual con Ansible instalado
+
+# Aclaraciones
+PORFAVOR,PORFAVOR,PORFAVOR NO AGREGUES LAS CLAVES AL .ssh DE TU MAQUINA, PORQUE LA ESTAS CAGANDO
+
+Las imagenes no necesariamente son la version ansible, pero ya vienen con el usuario ansible y son comodas para
+algunas cosas.
