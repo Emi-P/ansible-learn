@@ -1,10 +1,12 @@
+# Este README.md Lo escribio opencode, asi que hay boludeces sin sentido
 # Laboratorio Ansible
 
 Entorno Docker con múltiples nodos Linux para practicar Ansible.
 
 ## Requisitos
 
-- Docker con soporte para `cgroupns=host` (cgroup v2)
+- Docker
+- Python, para generar un entorno donde instalar ansible facil
 
 ## Uso
 
